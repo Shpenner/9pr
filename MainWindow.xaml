@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="102" Width="211" BorderBrush="#FFD03030"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="282,10,0,0" VerticalAlignment="Top" Height="102" Width="211" BorderBrush="#FFD03030"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="579,10,0,0" VerticalAlignment="Top" Height="102" Width="211" BorderBrush="#FFD03030"/>
+        <Image Source="C:\Users\student-a502.PERMAVIAT\Desktop\9pr\Images\wood.jfif" HorizontalAlignment="Left" Height="190" Margin="10,112,0,0" VerticalAlignment="Top" Width="206"/>
+        <Image Source="C:\Users\student-a502.PERMAVIAT\Desktop\9pr\Images\iron.jfif" HorizontalAlignment="Left" Height="190" Margin="247,112,0,0" VerticalAlignment="Top" Width="206"/>
+        <Image Source="C:\Users\student-a502.PERMAVIAT\Desktop\9pr\Images\gold.jfif" HorizontalAlignment="Left" Height="190" Margin="539,112,0,0" VerticalAlignment="Top" Width="206"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="35,365,0,0" VerticalAlignment="Top" Height="59" Width="131"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="269,360,0,0" VerticalAlignment="Top" Height="59" Width="131"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="579,360,0,0" VerticalAlignment="Top" Height="59" Width="131"/>
+
     </Grid>
 </Window>
